@@ -7,8 +7,7 @@ const TitleStyled = styled.h2`
     text-align: center;
     font-family: "Orbitron", sans-serif;
     font-weight: 700;
-    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
-`;
+   `;
 
 function Title(props) {
     return (
